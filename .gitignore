@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Database
+config/config.json
+
+# Sequelize migrations & seeds
+migrations/
+seeders/
+
+# Build artifacts
+dist/
+build/
+.cache/
+
